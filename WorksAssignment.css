@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+body {
+    background-color: #ffa1a9;
+    padding: 5px;
+}
+
+.category-Image {
+    width: 40px;
+    height: 40px;
+    color: #0a0333;
+    margin-bottom: 10px;
+}
+
+.category {
+    font-family: "Roboto";
+    font-size: 10px;
+    margin-left: 6px;
+    color: #0a0333;
+}
+
+.name {
+    font-family: "Roboto";
+    color: #0a0333;
+    font-size: 15px;
+    font-weight: 600;
+
+}
+
+.role {
+    font-family: "Roboto";
+    color: #0a0333;
+    font-size: 6px;
+}
+
+.experience {
+    font-family: "Roboto";
+    font-size: 6px;
+}
+
+.address {
+    font-family: "Roboto";
+    font-size: 6px;
+}
+
+
+.date1 {
+    font-family: "Roboto";
+    font-size: 6px;
+    margin-left: 25px;
+}
+
+.work1 {
+    font-family: "Roboto";
+    font-size: 8px;
+    font-weight: 700;
+    margin-bottom: 0;
+    margin-left: 10px;
+}
+
+.works {
+    font-family: "Roboto";
+    font-size: 6px;
+    margin-top: 2px;
+    margin-left: 10px;
+}
+
+.skillname {
+    font-family: "Roboto";
+    font-size: 6px;
+}
+
+.dot {
+    height: 6px;
+    width: 6px;
+    background-color: #0a0333;
+    border-radius: 10px;
+}
